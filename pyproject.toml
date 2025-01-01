@@ -1,0 +1,9 @@
+[project]
+name = "apache-spark-learnings"
+version = "0.1.0"
+description = "A repository of my learnings on Apache Spark"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pyspark>=3.5.4",
+]
